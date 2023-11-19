@@ -1,0 +1,6 @@
+structures=linked
+floors=10
+passengers=0.05
+elevators=2
+elevatorCapacity=8
+duration=500
