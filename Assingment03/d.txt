@@ -1,0 +1,175 @@
+Keys in the 'state' HashMap:
+Italy/Sardinia
+Benin
+Papua New Guinea
+Angola
+Sudan
+East Timor
+Burkina Faso (Upper Volta)
+Paraguay
+Kazakhstan
+Portugal
+Syria
+Bahamas
+Solomon Islands
+Greece
+Latvia
+Mongolia
+Morocco
+Mali
+Panama
+Vietnam, Democratic Republic of
+Guatemala
+Guyana
+Iraq
+Yemen (Arab Republic of Yemen)
+Chile
+Laos
+Nepal
+Argentina
+Ukraine
+Bosnia-Herzegovina
+Belize
+Ghana
+Zambia
+Bahrain
+Congo
+India
+Kyrgyz Republic
+Canada
+Guinea-Bissau
+Maldives
+Belgium
+German Federal Republic
+Namibia
+Finland
+Comoros
+Taiwan
+Trinidad and Tobago
+South Africa
+Georgia
+Central African Republic
+Jamaica
+Cambodia (Kampuchea)
+Peru
+Turkmenistan
+Korea, People's Republic of
+Eritrea
+Fiji
+Guinea
+Belarus (Byelorussia)
+Chad
+Somalia
+Madagascar
+Thailand
+Equatorial Guinea
+Libya
+Costa Rica
+Sweden
+Malawi
+Poland
+Bulgaria
+Nigeria
+Jordan
+Kuwait
+Tunisia
+Croatia
+Uruguay
+Congo, Democratic Republic of (Zaire)
+United Kingdom
+United Arab Emirates
+Kenya
+Switzerland
+Spain
+Djibouti
+Lebanon
+Brunei
+Cuba
+Venezuela
+Macedonia (Former Yugoslav Republic of)
+Azerbaijan
+Liberia
+Czech Republic
+Mauritania
+Swaziland
+Israel
+Australia
+Tajikistan
+Estonia
+Cameroon
+Cyprus
+Surinam
+Iran (Persia)
+Malaysia
+Iceland
+Oman
+Armenia
+Gabon
+Austria
+Mozambique
+El Salvador
+Luxembourg
+Brazil
+Korea, Republic of
+Algeria
+Slovenia
+Lesotho
+Colombia
+Ecuador
+Hungary
+South Sudan
+Japan
+Moldova
+Mauritius
+Albania
+New Zealand
+Senegal
+Honduras
+Ethiopia
+Zimbabwe (Rhodesia)
+Cote D’Ivoire
+Haiti
+Burundi
+Afghanistan
+Myanmar (Burma)
+Singapore
+United States of America
+Turkey (Ottoman Empire)
+Egypt
+Sierra Leone
+Tanzania/Tanganyika
+Bolivia
+Malta
+Saudi Arabia
+Cape Verde
+Netherlands
+Pakistan
+Kosovo
+Gambia
+Ireland
+Qatar
+China
+Slovakia
+France
+Serbia
+Lithuania
+Bhutan
+Togo
+Niger
+Philippines
+Rwanda
+Uzbekistan
+Russia (Soviet Union)
+Bangladesh
+Barbados
+Nicaragua
+Norway
+Botswana
+Sri Lanka (Ceylon)
+Dominican Republic
+Denmark
+Mexico
+Uganda
+Rumania
+Montenegro
+Indonesia
